@@ -1,6 +1,5 @@
-## Leonado Lages test website
+# Leonado Lages test website
 
-# Known issues:
+## Known issues:
 
-- Random text written for test, don't take it seriously;
-- Leaflet button showing up over navbar.
+- Random text written for test, don't take it seriously.
